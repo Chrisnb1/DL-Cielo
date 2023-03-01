@@ -1,2 +1,5 @@
 # DP-Cielo
-Clasificación de condiciones de cielo con diferentes técnicas de Deep Learning.
+_Clasificación de distintas condiciones de cielo utilizando diferentes técnicas de Deep Learning._
+
+
+
