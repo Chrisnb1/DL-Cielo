@@ -2,7 +2,7 @@
 _Clasificación de distintas condiciones de cielo utilizando diferentes técnicas de Deep Learning._
 
 ## Descripción
-Se construyó un dataset con la clasificación de diferentes condiciones de cielo:
+Se construyó un dataset con 1500 imágenes clasificadas en diferentes condiciones de cielo:
 
 * Despejado
 * Parcialmente nublado
